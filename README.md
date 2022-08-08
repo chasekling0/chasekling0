@@ -1,4 +1,4 @@
-# I am Chase Kling :cowboy_hat_face:
+# Hi! My name is Chase Kling :cowboy_hat_face:
 ## About Me
 :corn: University of Nebraska-Lincoln, Raikes School
 
@@ -6,7 +6,7 @@
 
 :computer: Interned at Hudl, Northern Natural Gas
 
-:keyboard: Worked with Java, C#, JS, TS, React/Redux
+:keyboard: Worked with Java, C#, Javascript, Typescript
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasekling0&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
