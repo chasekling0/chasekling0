@@ -6,7 +6,7 @@
 
 :computer: Interned at Hudl, Northern Natural Gas
 
-:keyboard: Worked with Java, C#, Javascript, Typescript, and Python
+:keyboard: Worked with Python, C#, Java, Javascript, Typescript
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasekling0&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
