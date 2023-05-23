@@ -2,7 +2,7 @@
 ## About Me
 :corn: University of Nebraska-Lincoln, Raikes School
 
-:student: Sophomore Computer Science and Data Science Major
+:student: Junior Computer Science and Data Science Major
 
 :computer: Interned at Hudl, Northern Natural Gas
 
