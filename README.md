@@ -1,8 +1,8 @@
 # Hi! My name is Chase Kling :cowboy_hat_face:
 ## About Me
-:corn: University of Nebraska-Lincoln, Raikes School
+:corn: University of Nebraska-Lincoln, Raikes School Graduate
 
-:student: Junior Computer Science and Data Science Major
+:student: Degrees in Computer Science, Data Science, and French
 
 :computer: Interned at Hudl, Northern Natural Gas
 
