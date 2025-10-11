@@ -2,11 +2,9 @@
 ## About Me
 :corn: University of Nebraska-Lincoln, Raikes School Graduate
 
-:student: Degrees in Computer Science, Data Science, and French
+:student: B.S. in Computer Science, Data Science, French
 
-:computer: Interned at Hudl, Northern Natural Gas
-
-:keyboard: Worked with Python, C#, Java, Javascript, Typescript
+:computer: Engineer I at Hudl
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasekling0&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
