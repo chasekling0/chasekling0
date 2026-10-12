@@ -4,7 +4,7 @@
 
 :student: B.S. in Computer Science, Data Science, French
 
-:computer: Engineer I at Hudl
+:computer: Engineer II at Hudl
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasekling0&show_icons=true&theme=prussian&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
